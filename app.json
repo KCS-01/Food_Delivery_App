@@ -1,4 +1,4 @@
 {
-  "name": "FoodDeliveryApp",
-  "displayName": "FoodDeliveryApp"
+  "name": "FoodDeliveryApp", /** 변경 X, 바꾸면 난리난다...*/
+  "displayName": "FoodDeliveryApp" /** 앱 이름 * /
 }
